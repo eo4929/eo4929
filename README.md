@@ -1,4 +1,10 @@
-### Hi there 👋
+## Contact
+- Email: mainthread@kaist.ac.kr
+
+## Curriculum Vitae (CV)
+- [link](https://drive.google.com/file/d/1eTdvyE5TaUCooopwRN5PNcNMpdMtBFD2/view?usp=sharing)
+
+
 
 <!--
 **eo4929/eo4929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
