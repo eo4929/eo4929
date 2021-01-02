@@ -1,3 +1,6 @@
+## Student researcher
+- Web Engineering Lab, KAIST
+
 ## Contact
 - Email: mainthread@kaist.ac.kr
 
