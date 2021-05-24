@@ -4,8 +4,8 @@
 ## Contact
 - Email: mainthread@kaist.ac.kr
 
-## Curriculum Vitae (CV, 이력)
-- [link](https://drive.google.com/file/d/1eTdvyE5TaUCooopwRN5PNcNMpdMtBFD2/view?usp=sharing)
+## Linkedin (이력)
+- [link](https://www.linkedin.com/in/mainthread4929/)
 
 
 
