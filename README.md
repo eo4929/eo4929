@@ -1,8 +1,15 @@
-## Student researcher
+## Financial Researcher
+- AI technology Team, Financial Security Institute (FSI)
 - Web Engineering Lab, KAIST
 
+## Research Area
+- Financial Application (e.g., Financial Fraud Detection)
+- Applied AI/Data Science
+- Information Security/Privacy Protection  
+
 ## Contact
-- Email: mainthread@kaist.ac.kr
+- Email: mainthread4929@gmail.com
+- Homepage :mainthread.notion.site 
 
 ## Linkedin (이력)
 - [link](https://www.linkedin.com/in/mainthread4929/)
