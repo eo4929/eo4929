@@ -9,7 +9,7 @@
 
 ## Contact
 - Email: mainthread4929@gmail.com
-- Homepage :mainthread.notion.site 
+- Homepage: mainthread.notion.site 
 
 ## Linkedin (이력)
 - [link](https://www.linkedin.com/in/mainthread4929/)
